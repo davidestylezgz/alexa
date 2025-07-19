@@ -48,7 +48,7 @@
                     "keywords": []
                 },
                 "es-ES": {
-                    "name": "chat",
+                    "name": "oracle",
                     "summary": "ChatGPT en Alexa",
                     "description": "Skill de Alexa que utiliza la API de OpenAI para generar respuestas desde el modelo ChatGPT",
                     "examplePhrases": [
